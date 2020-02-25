@@ -2,9 +2,12 @@
 // @name         WhatsApp dark theme switcher enabler
 // @version      0.1
 // @description  Adds WhatsApp dark theme switcher
-// @author       You
+// @license      MIT
+// @author       Bart0110
 // @match        https://web.whatsapp.com/*
 // @grant        none
+// @updateURL    https://github.com/Bart0110/wa-web-dark-toggle/raw/master/wa-web-dark-toggle.user.js
+// @downloadURL  https://github.com/Bart0110/wa-web-dark-toggle/raw/master/wa-web-dark-toggle.user.js
 // ==/UserScript==
 
 /**
