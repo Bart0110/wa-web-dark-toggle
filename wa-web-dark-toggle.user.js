@@ -72,5 +72,5 @@ SOFTWARE.`
         };
     }
 
-    waitFor('._3j8Pd').then(addBtn);
+    waitFor('#side > header').then(addBtn);
 })();
