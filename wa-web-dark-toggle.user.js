@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         WhatsApp dark theme switcher enabler
-// @version      0.1
+// @version      0.2
 // @description  Adds WhatsApp dark theme switcher
 // @license      MIT
 // @author       Bart0110
