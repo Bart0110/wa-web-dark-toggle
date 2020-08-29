@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         WhatsApp dark theme switcher enabler
-// @version      0.2.3
+// @version      0.2.4
 // @description  Adds WhatsApp dark theme switcher
 // @license      MIT
 // @author       Bart0110
@@ -39,7 +39,7 @@ SOFTWARE.`
 (function() {
     'use strict';
 
-    let enabled = false;
+    let enabled = document.body.classList.contains('dark');
     function waitFor(selector) {
         return new Promise(function (res) {
             waitForElementToDisplay(selector, 300);
